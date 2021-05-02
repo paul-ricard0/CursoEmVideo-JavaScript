@@ -1,0 +1,16 @@
+ 
+/*
+var temfatia = 8
+function comerPizza(){
+    while(temfatia >= 8){
+        temfatia = temfatia - 1
+    }
+
+    console.log(`Agora tem ${temfatia}`)
+}
+*/
+
+var c = 1 
+while(c < 6){
+    console.log('Tudo bem?')
+}
