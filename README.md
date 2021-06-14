@@ -1,2 +1,3 @@
 # CursoEmVideo-JavaScript
- Onde tudo começo (nem lembrava kkkkk)
+ Onde tudo começo 
+ 
